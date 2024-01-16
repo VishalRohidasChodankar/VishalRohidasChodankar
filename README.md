@@ -3,7 +3,7 @@
 - 🌱 I’m currently honing my skills in Data Analytics and exploring the world of Data Science
 - 💞️ Open to collaborations on projects related to data analysis and visualization
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-chodankar-69742315a/)
-- 😄 Pronouns: Vishal
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: "I once turned a messy dataset into meaningful insights while listening to my favorite podcast. Data analysis and storytelling go hand in hand!"
 
 <!---
